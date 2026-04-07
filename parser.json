@@ -1,9 +1,9 @@
 {
+  "location": null,
   "generate": null,
+  "lang": "diff",
   "generate_from_json": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-diff",
   "semver": false,
-  "parser_version": "2520c3f934b3179bb540d23e0ef45f75304b5fed",
-  "location": null,
-  "lang": "diff"
+  "parser_version": "2520c3f934b3179bb540d23e0ef45f75304b5fed"
 }
